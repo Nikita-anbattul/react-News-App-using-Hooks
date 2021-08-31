@@ -1,0 +1,58 @@
+
+body{
+  margin-left: 0;
+  margin-right: 0;
+}
+
+h1 {
+  font-family:Lato;
+  color:white;
+  font-weight:600;
+
+}
+p{
+  font-family:Lato;
+  color:black;
+  font-weight:600;
+  margin-left: 10px;
+}
+
+header{
+  background: black;
+  padding:10px;
+  margin-bottom:20px;
+  margin-left: 0;
+  position: sticky;
+  top:0;
+}
+form{
+  margin-left: 10px;
+
+}
+div{
+  background: rgb(47, 241, 255);
+
+}
+
+input{
+  width:50vw;
+  height: 4vw;
+  border-radius: 6px;
+  padding: 4px;
+  color:black;
+  font-family: Lato;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+button{
+  border-radius: 6px;
+  padding: 4px;
+  color:black;
+  font-family: Lato;
+  font-weight: 500;
+  font-size: 16px;
+  margin-left:1px;
+  background: red;
+  
+}
