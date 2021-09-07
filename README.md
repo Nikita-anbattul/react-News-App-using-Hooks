@@ -1,3 +1,1 @@
-# react-laps6n
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-laps6n)
+This is a News Search App using React Hooks
